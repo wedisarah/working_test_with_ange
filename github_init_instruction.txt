@@ -1,0 +1,17 @@
+github local repo
+1.rd .git /S/Q
+2.git init
+3.git add .
+4.git commit -m "initial commit"
+5.git remote add origin "url"
+6.git push -u origin master
+
+github cloning from someone's repository 
+1.on the path the i want the project to be open cmd
+2.git clone "url"
+
+t
+e
+s
+t
+2
